@@ -16,8 +16,10 @@ This repository requires MCUXpresso and the K32L2B3 Board. Please ensure you hav
 
 1. Clone this repository and add as a project to MCUXpresso.
     - In the event there is any linker error, please add the "tinyusb-midi2/src" folder as source and to the compiler's include path.
+    - **Alternatively, the exported project ZIP can be downloaded from the Releases section.**
 2. Connect K32L2B3 (OpenSDA Port)
 3. Flash the K32L2B3 using the "Debug" option
+
 
 ## Testing
 
