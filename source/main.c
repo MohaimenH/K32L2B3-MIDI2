@@ -54,6 +54,7 @@ uint32_t scale_adc_to_midi(uint32_t adc_value);
 
 /*------------- MAIN -------------*/
 int main(void) {
+	// silly little change.
 	board_init();
 	init_gpio();
 	init_adc();
